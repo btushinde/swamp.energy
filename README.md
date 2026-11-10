@@ -4,6 +4,8 @@
 </p>
 
 <h1 align="center">swamp.energy</h1>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fd8f521a-bd91-48ac-a3f2-33cba87ac657/deploy-status)](https://app.netlify.com/projects/swamp-energy/deploys)
+
 
 <h4 align="center">This Create-React-App project was created in <a href="https://quarkly.io/" target="_blank">Quarkly.io</a> – design tool for creating websites and web apps</h4>
 
