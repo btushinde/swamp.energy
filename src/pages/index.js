@@ -18,13 +18,6 @@ import { RawHtml, Override } from '@quarkly/components'
 let WishlistData = {
   wishlist: [
     {
-      name: 'Adjustable Metal Leaf Rake Long Handle, Garden Rakes for Lawns Heavy Duty Leaves with Expandable Head 8-17"',
-      price: '$21.99',
-      description: 'A rake to help me clean up my camp and keep it tidy.',
-      link: 'https://www.amazon.com/Adjustable-Garden-Expandable-Gardening-Camping/dp/B0C8945NKT',
-      image: 'https://m.media-amazon.com/images/I/31JXnkdm2eL._AC_.jpg'
-    },
-    {
       name: 'Jackery Explorer 300 Portable Power Station,292Wh',
       price: '$289.00',
       description:
@@ -82,6 +75,13 @@ let WishlistData = {
       link: 'https://www.walmart.com/ip/Lepro-4-Pack-LED-Camping-Lanterns-Camping-Accessories-3-Lighting-Modes-Batteries-Included-Hanging-Tent-Light-Bulbs-Clip-Hook-Camping-Hiking-Hurricane/20033972643',
       image:
         'https://i5.walmartimages.com/seo/Lepro-6-Pack-LED-Camping-Lanterns-Camping-Accessories-3-Lighting-Modes-Batteries-Included-Hanging-Tent-Light-Bulbs-Clip-Hook-Camping-Hiking-Hurricane_484d8cd0-dcaa-49b7-90a2-c3466e0c68d5.3d9cc4f1f87fc697d399a77756b5d70d.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF'
+    },
+    {
+      name: 'Adjustable Metal Leaf Rake Long Handle, Garden Rakes for Lawns Heavy Duty Leaves with Expandable Head 8-17"',
+      price: '$21.99',
+      description: 'A rake to help me clean up my camp and keep it tidy.',
+      link: 'https://www.amazon.com/Adjustable-Garden-Expandable-Gardening-Camping/dp/B0C8945NKT',
+      image: 'https://m.media-amazon.com/images/I/31JXnkdm2eL._AC_.jpg'
     },
     {
       name: 'Duracell Coppertop AAA Alkaline Batteries 16/Pack',
