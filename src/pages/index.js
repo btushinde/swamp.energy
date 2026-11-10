@@ -173,7 +173,6 @@ let Wishlist = WishlistData.wishlist.map((item, index) => {
 			<Image
 				min-height="336px"
 				object-fit="contain"
-				transform="translate(0px, -150px)"
 				md-max-height="250px"
 				md-min-height="16px"
 				sm-height="200px"
