@@ -7,24 +7,73 @@ import { RawHtml, Override } from "@quarkly/components";
 
 
 
-let Data = {
+let WishlistData = {
 	"wishlist": [
 		{
-			"name": "Jackery Explorer 500 v2 Power Station, 512Wh/500W, AC Cable Included",
-			"link": "https://www.amazon.com/dp/B07SM5HBK1?lv=shuf&hvlocphy=83501&linkCode=df0&hvnetw=o&hvadid=80883033958767&hvbmt=be&hvlocint=&hvdev=c&hvocijid=6927473612843923919-B07SM5HBK1-&hvqmt=e&hvexpln=0&tag=bingshoppinga-20&hvtargid=pla-4584482512651135&channelId=69&ref_=asc_df_B07SM5HBK1&plpRedirect=mhFallback&th=1",
-			"image": "https://uploads.quarkly.io/6ad7a98e0ef5e5001f250a10/images/icons8-swamp-100.png?v=2026-10-21T19:19:48.372Z"
+			"name": "Jackery Explorer 300 Portable Power Station,292Wh",
+			"price":"$289.00",
+			"description":"A solar charger I can use to charge all my devices without walking to town and charge my laptop.",
+			"link": "https://www.amazon.com/Jackery-Portable-Explorer-Generator-Optional/dp/B082TMBYR6/ref=dp_prsubs_d_sccl_1/132-4675579-6612120?pd_rd_w=eKdoZ&content-id=amzn1.sym.93a570fe-ddb4-4850-9939-42d76f1878cc&pf_rd_p=93a570fe-ddb4-4850-9939-42d76f1878cc&pf_rd_r=KH2N1MNCW6HVWJT46Z5J&pd_rd_wg=so7xb&pd_rd_r=98db0032-6dba-4bba-b8f7-87447bdd4149&pd_rd_i=B082TMBYR6&th=1",
+			"image": "https://m.media-amazon.com/images/I/61k1MDuVEIL._AC_SX679_.jpg"
 		}
 		,
 		{
-			"name": "Second Item",
-			"link": "",
-			"image": "https://uploads.quarkly.io/6ad7a98e0ef5e5001f250a10/images/icons8-swamp-100.png?v=2026-10-21T19:19:48.372Z"
+			"name": "100W Portable Solar Panel for Power Station, for Outdoor, RV, Emergency",
+			"price":"$109.99",
+			"description":"A solar panel to go with the Jackery power station. It would allow me to work on my laptop at my camp rather than walking to Chapel Hill.",
+			"link": "https://www.amazon.com/Portable-Efficiency-Foldable-Waterproof-Emergency/dp/B0DK6HRDPR/ref=sr_1_4?crid=Z5IF3AG71FK5&dib=eyJ2IjoiMSJ9.60mvhdbA5FRm-jlvbng60_5K600A7OblIw8tmAlYxb1xQ-yHCu10Gc0dEOufK_0qCdaXfTTMwebeo2-McPc5DlsyHnW0A_5iWwdfwNgmbprEvaTDnF-HEeetF9uJ7crMKCsK5mn6C5nCBKJuZNvj4Edugd2qAn-HBhrHC-gDKLVr2eAPUAG3gIbeJDbuwj6ca7xQw1PpdCO-2bkYWDCTo5E3v3r0tdw7Ra0PFMG0X_m0FnXW3qoMgb0z2qiC63zfkRSZRgcy09ZTjpK1qKTGw7rMiMcAWba4zWG--2jSgRg.mdBcVtAUoLxC5W_umoKD-Gp1lkG3PNQ7ndR1On5cmKA&dib_tag=se&keywords=jackery%2Bsolar%2Bpanel&qid=1794327039&s=lawn-garden&sprefix=jacke%2Clawngarden%2C99&sr=1-4&th=1",
+			"image": "https://m.media-amazon.com/images/I/818vHE4EV7L._AC_SX679_.jpg"
+		},
+		{
+			"name": "Pocket Juice 20,000mAh Slim Pro Portable Power Bank, USB-C Input/Output, Dual USB-A Ports 4.5 out of 5 stars (4.5)",
+			"price":"$19.88",
+			"description":"A rechargable battery bank to keep my devices charged.",
+			"link": "https://www.walmart.com/ip/seort/825843107",
+			"image": "https://i5.walmartimages.com/seo/Pocket-Juice-Slim-Pro-20-000mAh-Portable-Power-Bank-and-Charger-with-Dual-USB-Ports-Black_552b3c59-5a94-4970-9672-0b042dba467f.9fdb5816d5ea090339e119d9484b7965.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF"
+		},
+		{
+			"name": "onn 20,000 mAh Portable Power Bank, 20 W Output, Two USB-C and One USB-A Ports, Black",
+			"price":"$19.88",
+			"description":"A rechargable battery bank to keep my devices charged.",
+			"link": "https://www.walmart.com/ip/seort/14816903566",
+			"image": "https://i5.walmartimages.com/asr/d0d1f267-e0f8-4b07-9fb5-96be61ef38f5.400902e630de0233034a6dccbff16055.png?odnHeight=573&odnWidth=573&odnBg=FFFFFF"
+		},
+
+
+		{
+			"name": "Red Turbine Torch Lighter, Windproof Blue Flame, Refillable for Baking and Grilling",
+			"price":"Now $4.56",
+			"description":"A windproof lighter I can use to start camp fires and my stove.",
+			"link": "https://www.walmart.com/ip/Red-Turbine-Torch-Lighter-Windproof-Blue-Flame-Refillable-for-Baking-and-Grilling/18201710300?classType=VARIANT&from=/search",
+			"image": "https://i5.walmartimages.com/seo/Red-Turbine-Torch-Lighter-Windproof-Blue-Flame-Refillable-for-Baking-and-Grilling_471f6d4b-0d32-4332-927e-50ea8b201832.553c6e12acb259d2d263a28cd634b7e6.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF"
+		},
+		{
+			"name": "SAFAVIEH Braided Daphne Geometric Cotton Reversible Area Rug, Red/Multi, 3'x5'",
+			"price":"$49.32",
+			"description":"A large area rug I can use to cover the ground in my camp.",
+			"link": "https://www.walmart.com/ip/SAFAVIEH-Braided-Daphne-Confetti-Striped-Area-Rug-Red-Multi-2-x-3/393287473",
+			"image": "https://i5.walmartimages.com/seo/SAFAVIEH-Braided-Daphne-Geometric-Cotton-Reversible-Area-Rug-Red-Multi-3-x-5_8cf302dc-e034-419a-a1ef-acf4b216efd7.436dde41725b7007ec6b7b1bec685041.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF"
+		},
+		{
+			"name": "Lepro 6-Pack LED Camping Lanterns, Camping Accessories, 3 Lighting Modes, Batteries Included Hanging Tent Light Bulbs with Clip Hook for Camping, Hiking, Hurricane, Outages, Collapsible",
+			"price":"$18.88",
+			"description":"Camping lights I can hang around my tent and on my pack while walking at night.",
+			"link": "https://www.walmart.com/ip/Lepro-4-Pack-LED-Camping-Lanterns-Camping-Accessories-3-Lighting-Modes-Batteries-Included-Hanging-Tent-Light-Bulbs-Clip-Hook-Camping-Hiking-Hurricane/20033972643",
+			"image": "https://i5.walmartimages.com/seo/Lepro-6-Pack-LED-Camping-Lanterns-Camping-Accessories-3-Lighting-Modes-Batteries-Included-Hanging-Tent-Light-Bulbs-Clip-Hook-Camping-Hiking-Hurricane_484d8cd0-dcaa-49b7-90a2-c3466e0c68d5.3d9cc4f1f87fc697d399a77756b5d70d.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF"
+		},
+		{
+			"name": "Duracell Coppertop AAA Alkaline Batteries 16/Pack",
+			"price":"$18.88",
+			"description":"Camping lights I can hang around my tent and on my pack while walking at night.",
+			"link": "https://www.walmart.com/ip/Duracell-Coppertop-AAA-Alkaline-Batteries-16-Pack/20403855425?classType=REGULAR&athbdg=L1300&from=/search",
+			"image": "https://i5.walmartimages.com/seo/Duracell-Coppertop-AAA-Alkaline-Batteries-16-Pack_f9cac43d-22bc-42f9-9513-b36b9be50ddd.a722fafd9a6fd059f7cdda0f5f77f3a4.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF9cc4f1f87fc697d399a77756b5d70d.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF"
 		}
+		
 	]
 
 };
 
-let Wishlist = Data.wishlist.map((item, index) => {
+let Wishlist = WishlistData.wishlist.map((item, index) => {
 	return <LinkBox
 		align-items="flex-start"
 		border-width="1px"
@@ -72,10 +121,20 @@ let Wishlist = Data.wishlist.map((item, index) => {
 					lg-font="normal 400 14px/1.5 &quot;Manrope&quot;, sans-serif"
 					position="static"
 				>
-					{item.name}
+					{item.name} - <strong>{item.price}</strong>
+				</Text>
+				<Text
+					margin="0px 0px 16px 0px"
+					font="--lead"
+					color="--dark"
+					lg-font="normal 400 14px/1.5 &quot;Manrope&quot;, sans-serif"
+					position="static"
+				>
+					{item.description}
 				</Text>
 				<Link
 					href={item.link}
+					target="_blank"
 					color="#000000"
 					font="18px sans-serif"
 					text-decoration-line="initial"
@@ -129,7 +188,10 @@ let Wishlist = Data.wishlist.map((item, index) => {
 	</LinkBox>;
 });
 
-let WishlistDescription = "This is the wishlist of items I need to survive and get back on my feet. If you can help me out, please click the link to purchase the item and have it shipped to me. Thank you for seeing me!";
+let WishlistDescription = `This is the wishlist of items I need to survive and get back on my feet. If you can help me out, please click the link to purchase the item and have it shipped to me. Thank you for seeing me! `
+
+let WishlistDescription2 = `
+Please mail all packages containing wishlist items to the following address:`;
 
 
 
@@ -247,6 +309,21 @@ export default (() => {
 						<br />
 						<br />
 						Every bit helps! Thank you for seeing me!
+						<br />
+
+					</Text>
+					<br/>
+					<Text
+						margin="0px 0px 0px 0px"
+						font="--lead"
+						color="--dark"
+						lg-font="normal 400 16px/1.5 &quot;Manrope&quot;, sans-serif"
+						sm-font="normal 400 14px/1.5 &quot;Manrope&quot;, sans-serif"
+						md-font="normal 400 14px/1.5 &quot;Manrope&quot;, sans-serif"
+					>
+						<h3><Link href="http://www.paypal.me/swampenergy" target="_blank">Donate to PayPal Here</Link>
+						</h3>
+						
 					</Text>
 
 				</Section>
@@ -289,6 +366,16 @@ export default (() => {
 						md-font="normal 400 14px/1.5 &quot;Manrope&quot;, sans-serif"
 					>
 						{WishlistDescription}
+						<br />
+						<br />
+						{WishlistDescription2}
+						<p>
+						<strong>Biko Tushinde</strong>
+						<br />
+						<strong>5014 Tanglewood Drive</strong>
+						<br />
+						<strong>Raleigh, NC 27612</strong>
+						</p>
 					</Text>
 
 				</Section>
