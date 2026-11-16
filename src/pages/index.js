@@ -36,6 +36,7 @@ let Wishlist = WishlistData.wishlist.map((item, index) => {
       flex-direction='row'
       href={item.link}
       key={index}
+      target='_blank'
     >
       <Box
         height='100%'
