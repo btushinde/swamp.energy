@@ -1,0 +1,138 @@
+---
+wishlist:
+# - name:
+#   price:
+#   description:
+#   link:
+#   image:
+
+
+- name: Jackery Explorer 300 Portable Power Station,292Wh
+  price: "$289.00"
+  description: A solar charger I can use to charge all my devices without walking
+    to town and charge my laptop.
+  link: https://www.amazon.com/Jackery-Portable-Explorer-Generator-Optional/dp/B082TMBYR6/ref=dp_prsubs_d_sccl_1/132-4675579-6612120?pd_rd_w=eKdoZ&content-id=amzn1.sym.93a570fe-ddb4-4850-9939-42d76f1878cc&pf_rd_p=93a570fe-ddb4-4850-9939-42d76f1878cc&pf_rd_r=KH2N1MNCW6HVWJT46Z5J&pd_rd_wg=so7xb&pd_rd_r=98db0032-6dba-4bba-b8f7-87447bdd4149&pd_rd_i=B082TMBYR6&th=1
+  image: https://m.media-amazon.com/images/I/61k1MDuVEIL._AC_SX679_.jpg
+
+- name: 100W Portable Solar Panel for Power Station, for Outdoor, RV, Emergency
+  price: "$109.99"
+  description: A solar panel to go with the Jackery power station. It would allow
+    me to work on my laptop at my camp rather than walking to Chapel Hill.
+  link: https://www.amazon.com/Portable-Efficiency-Foldable-Waterproof-Emergency/dp/B0DK6HRDPR/ref=sr_1_4?crid=Z5IF3AG71FK5&dib=eyJ2IjoiMSJ9.60mvhdbA5FRm-jlvbng60_5K600A7OblIw8tmAlYxb1xQ-yHCu10Gc0dEOufK_0qCdaXfTTMwebeo2-McPc5DlsyHnW0A_5iWwdfwNgmbprEvaTDnF-HEeetF9uJ7crMKCsK5mn6C5nCBKJuZNvj4Edugd2qAn-HBhrHC-gDKLVr2eAPUAG3gIbeJDbuwj6ca7xQw1PpdCO-2bkYWDCTo5E3v3r0tdw7Ra0PFMG0X_m0FnXW3qoMgb0z2qiC63zfkRSZRgcy09ZTjpK1qKTGw7rMiMcAWba4zWG--2jSgRg.mdBcVtAUoLxC5W_umoKD-Gp1lkG3PNQ7ndR1On5cmKA&dib_tag=se&keywords=jackery%2Bsolar%2Bpanel&qid=1794327039&s=lawn-garden&sprefix=jacke%2Clawngarden%2C99&sr=1-4&th=1
+  image: https://m.media-amazon.com/images/I/818vHE4EV7L._AC_SX679_.jpg
+
+- name: MacBook Pro 15" Retina (Mid 2015) Battery and Fix Kit
+  price: "$141.99"
+  description: A replacement battery for my 2015 MacBook Pro that I use for programming
+    and artwork. This battery is no longer available from Apple and I need it to keep
+    my laptop running.
+  link: https://www.ifixit.com/products/macbook-pro-15-retina-mid-2015-battery
+  image: https://cdn.shopify.com/s/files/1/0045/4092/4007/files/3YyaAEV4oBgArRNR_7294c93e-dddb-47c7-af48-8ab498408698.jpg?v=1733343988&width=1920
+
+- name: Ozark Trail 9 ft x 12 ft Heavy-Duty Tarp, 10 mil, Reinforced Corners and Grommets
+  price: "$19.86"
+  description: A heavy duty tarp to cover my tent and keep it dry in the rain.
+  link: https://www.walmart.com/ip/Ozark-Trail-9-ft-x-12-ft-Heavy-Duty-Tarp-10-mil-Reinforced-Corners-and-Grommets/189015984
+  image: https://i5.walmartimages.com/asr/eae89eb6-4f1f-45e3-b704-3f26a053e2ab.a305bfb577f2698225fd1b89bdc6139e.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF
+
+- name: "SKIL PWR CORE 12 12V Starter Kit Including 2.0Ah USB-C Battery and 20W PD Charger"
+  price: $34.99
+  description: A battery and charger for my power tools. I use this to keep my tools charged while living outside.
+  link: https://www.amazon.com/Starter-Including-2-0Ah-Battery-Charger-CB5020A-11/dp/B0DHR5G5WK/ref=sr_1_7?crid=3M5PFWLI5ZFZ6&dib=eyJ2IjoiMSJ9.Td93n2vwqlcPvTJPu5aNT-nwjbw1jBlJf8s2hwHBqqb8RlVK92_6ZVBJkua1tpwghXwR-F_xwokLI_s1NCpf2fM2VnccThc9tW6bgBDmSlzc2uk_0TAQq8nYfZt6PZP4MvMC5KSuApjiReW2qBBkv9c39ZZfwB8vEQC3beq8x-wYVE7T1rEACbJVBQQ-X6WrF5z8WOmLipdwgoAcmXgfTzHdQ-XEWQBNrMg_klwQBFKGFvBAoVyVQMyC6CCsd8Px9O7lQIKONISlfllZL1QjwtdSZB_qBFfAqZx9aeP4N-A.AX8dfSrD7ueR-TXrNHythXZ3LJmd17cb7LJTZAsdnyM&dib_tag=se&keywords=skil+battery&qid=1795024209&s=hi&sprefix=skil+batt%2Ctools%2C351&sr=1-7
+  image: https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/I/61yd1fSVgaL._AC_SL1500_.jpg
+
+- name: "Greenworks 24V 6 in Mini Pruning Chainsaw, 2.0 Ah Battery and Charger"
+  price: $119.98
+  description: A mini chainsaw I can use to cut down small trees and branches to make my campsite more comfortable.
+  link: https://www.amazon.com/Greenworks-Brushless-Chainsaw-Cordless-Handheld/dp/B0FBQTPS4P/ref=sr_1_16?crid=3DPB030EW3UFH&dib=eyJ2IjoiMSJ9.AvPHqJtYCUQ6lr7qXksLr0JYbaHgI7JumJbPbKYIVMnDbQkL7n26_g9ZYxQ02mjzh5SulCscKa5-QC3_1Ll3MRz8bfrTu3JSxkGbH8QVY68maQDPHqviM8_7twr8F8kz13NRAOuybDD6aJ7Le6JJ_Uxm0PyvxWfqaOGf1MWwBEWbERsPwQ3rWhxEwl2GXyX8qt9OnA4qhE_LJhnlDyclLaZzXlF5iYgpC5SvimNnTWw.V0jz2TBf3PoAL7RvP1d4SvfePlN3oEBlKWPccS-umVw&dib_tag=se&keywords=greenworks&qid=1795024523&sprefix=greenwo%2Caps%2C327&sr=8-16&th=1
+  image: https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/I/71AzvNGiPzL._AC_SL1500_.jpg
+
+
+
+- name: "LED Work Light: Magnetic Portable Rechargeable Work Lights"
+  price: $31.69
+  description: A rechargeable work light I can use to light up my campsite at night.
+  link: https://www.amazon.com/Rechargeable-12000mAh-Essentials-Waterproof-Emergency/dp/B0FDB9B4GY/ref=sr_1_5?dib=eyJ2IjoiMSJ9.F0wuLLENsTgLeNhunNHBrUUNdJbrbXNpM96ZJPzLwVQeZFiashuCa0QUVprSD5640kORzXzt4nB-rc-pcPQF9F8D-EwdOl-15KYEvRgKpk02xrNEug_VXreovuk0PVSGIhcHZbjA3xVXuUZebSAKJbGZJicCU9dxlxvcmu2U_lDzVzA8A88y98GH9VqEKPvGjspmIge-Ti1GgbUZt3zGOZ6UvHFqyHOtTuemxPWLpwphhwMTH_FVTwSM8dOLTWLYqXUzF-a47wH_r91LbZ_cxSZnk6suQsglqcYC_ihD2n8.7IjJl8jSFCqT0irhYueaXfY_89YH6_hprjCpcZvloNs&dib_tag=se&keywords=led+light+rechargeable&qid=1795023881&s=hi&sr=1-5
+  image: https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/I/81Oc8WuEkHL._AC_SL1500_.jpg
+
+- name: "(300) Torx T25 Star Flat Head 9 x 3 Yellow Zinc Type 17 Outdoor Wood Screws"
+  price: "$36.53"
+  description: T25 torx screws to help me build up my campsite and make it more comfortable.
+    I use these screws to build a small deck and a table for my camp.
+  link: https://www.walmart.com/ip/300-Torx-T25-Star-Flat-Head-9-x-3-Yellow-Zinc-Type-17-Outdoor-Wood-Screw/21271013546?classType=REGULAR&from=/search
+  image: https://i5.walmartimages.com/seo/300-Torx-T25-Star-Flat-Head-9-x-3-Yellow-Zinc-Type-17-Outdoor-Wood-Screw_5abfe541-acf3-49e2-8f10-063fc0fe9f6f.06b5558f0514d7c089935a18497f9ee1.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF
+
+- name: Pocket Juice 20,000mAh Slim Pro Portable Power Bank, USB-C Input/Output, Dual
+    USB-A Ports 4.5 out of 5 stars (4.5)
+  price: "$19.88"
+  description: A rechargable battery bank to keep my devices charged.
+  link: https://www.walmart.com/ip/seort/825843107
+  image: https://i5.walmartimages.com/seo/Pocket-Juice-Slim-Pro-20-000mAh-Portable-Power-Bank-and-Charger-with-Dual-USB-Ports-Black_552b3c59-5a94-4970-9672-0b042dba467f.9fdb5816d5ea090339e119d9484b7965.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF
+
+- name: onn 20,000 mAh Portable Power Bank, 20 W Output, Two USB-C and One USB-A Ports,
+    Black
+  price: "$19.88"
+  description: A rechargable battery bank to keep my devices charged.
+  link: https://www.walmart.com/ip/seort/14816903566
+  image: https://i5.walmartimages.com/asr/d0d1f267-e0f8-4b07-9fb5-96be61ef38f5.400902e630de0233034a6dccbff16055.png?odnHeight=573&odnWidth=573&odnBg=FFFFFF
+
+- name: posca Paint Markers, 3M Fine Point Acrylic Paint Pens with Reversible Tips,
+    Art Supplies For Gifts, Decorations Fabric, Metal, Glass, Wood and Canvas, Set
+    of 15
+  price: "$26.99"
+  description: Art markers I use to document my journey and make art while living
+    outside.
+  link: https://www.amazon.com/dp/B001ANVDMA?tag=ustxtaddt-20&plpRedirect=mhFallback&ref=clp_hp_h_pc
+  image: https://m.media-amazon.com/images/I/81n06Btv5pL._AC_SX679_.jpg
+
+- name: Survival Frog Tough Electric Lighter 2.0 - Waterproof & Windproof Lighters
+    - Flameless Top-Facing Dual Arc Plasma, USB Rechargeable w/Built-in Flashlight,
+    Camping, Survival Fire Starter (Orange)
+  price: "$34.97"
+  description: A windproof lighter I can use to start camp fires and my stove.
+  link: https://www.amazon.com/Survival-Frog-Electric-Lighter-Built/dp/B07KFQVPTW/ref=sr_1_17?dib=eyJ2IjoiMSJ9.tlXe3jcNoinP5u0zBY9MM81IaNbblpfikA-fxXXSAe1vnQ28ClGKX2PtPU7F7c7rK6z1W7wZDGTl7sheGPiir4JOT-PupLMrGBb8fPRef1iXXHFXCaQzvOJTVEdniyDdf8NnKR4YdtgZujU27lObTZlrHU8nP9KVjwleCaT4ZD54duydo0TJd_ZLO4XvK-wNjy_SZx1L403Sh6HgKLL5_jmUy6o6KuUEGLXPzKfA5YySc-MnnZcBajljxoBh60WUaOta4386fOBBq1UFHmxUfD9dgKoXoHhvpXsu82sGpU4.UWdNEKfBu2iYmGV0Eea0nDjc5FFWHpkSzzl_fZHez3M&dib_tag=se&keywords=camping+lighter&qid=1794416820&sr=8-17
+  image: https://m.media-amazon.com/images/I/51Kr6PicRgL._AC_SX679_.jpg
+
+- name: Red Turbine Torch Lighter, Windproof Blue Flame, Refillable for Baking and
+    Grilling
+  price: "$4.56"
+  description: A windproof lighter I can use to start camp fires and my stove.
+  link: https://www.walmart.com/ip/Red-Turbine-Torch-Lighter-Windproof-Blue-Flame-Refillable-for-Baking-and-Grilling/18201710300?classType=VARIANT&from=/search
+  image: https://i5.walmartimages.com/seo/Red-Turbine-Torch-Lighter-Windproof-Blue-Flame-Refillable-for-Baking-and-Grilling_471f6d4b-0d32-4332-927e-50ea8b201832.553c6e12acb259d2d263a28cd634b7e6.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF
+
+- name: SAFAVIEH Braided Daphne Geometric Cotton Reversible Area Rug, Red/Multi, 3'
+    x 5'
+  price: "$49.32"
+  description: A large area rug I can use to cover the ground in my camp.
+  link: https://www.walmart.com/ip/SAFAVIEH-Braided-Daphne-Confetti-Striped-Area-Rug-Red-Multi-2-x-3/393287473
+  image: https://i5.walmartimages.com/seo/SAFAVIEH-Braided-Daphne-Geometric-Cotton-Reversible-Area-Rug-Red-Multi-3-x-5_8cf302dc-e034-419a-a1ef-acf4b216efd7.436dde41725b7007ec6b7b1bec685041.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF
+
+- name: Lepro 6-Pack LED Camping Lanterns, Camping Accessories, 3 Lighting Modes,
+    Batteries Included Hanging Tent Light Bulbs with Clip Hook for Camping, Hiking,
+    Hurricane, Outages, Collapsible
+  price: "$18.88"
+  description: Camping lights I can hang around my tent and on my pack while walking
+    at night.
+  link: https://www.walmart.com/ip/Lepro-4-Pack-LED-Camping-Lanterns-Camping-Accessories-3-Lighting-Modes-Batteries-Included-Hanging-Tent-Light-Bulbs-Clip-Hook-Camping-Hiking-Hurricane/20033972643
+  image: https://i5.walmartimages.com/seo/Lepro-6-Pack-LED-Camping-Lanterns-Camping-Accessories-3-Lighting-Modes-Batteries-Included-Hanging-Tent-Light-Bulbs-Clip-Hook-Camping-Hiking-Hurricane_484d8cd0-dcaa-49b7-90a2-c3466e0c68d5.3d9cc4f1f87fc697d399a77756b5d70d.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF
+
+- name: Adjustable Metal Leaf Rake Long Handle, Garden Rakes for Lawns Heavy Duty
+    Leaves with Expandable Head 8-17
+  price: "$21.99"
+  description: A rake to help me clean up my camp and keep it tidy.
+  link: https://www.amazon.com/Adjustable-Garden-Expandable-Gardening-Camping/dp/B0C8945NKT
+  image: https://m.media-amazon.com/images/I/31JXnkdm2eL._AC_.jpg
+
+- name: Duracell Coppertop AAA Alkaline Batteries 16/Pack
+  price: "$18.88"
+  description: Camping lights I can hang around my tent and on my pack while walking
+    at night.
+  link: https://www.walmart.com/ip/Duracell-Coppertop-AAA-Alkaline-Batteries-16-Pack/20403855425?classType=REGULAR&athbdg=L1300&from=/search
+  image: https://i5.walmartimages.com/seo/Duracell-Coppertop-AAA-Alkaline-Batteries-16-Pack_f9cac43d-22bc-42f9-9513-b36b9be50ddd.a722fafd9a6fd059f7cdda0f5f77f3a4.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF9cc4f1f87fc697d399a77756b5d70d.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF
+
+- name: "Duracell Coppertop AA Alkaline Batteries - 16 Pack"
+  price: $14.87
+  description: A pack of AA batteries to keep my devices charged while living outside.
+  link: https://www.walmart.com/ip/Duracell-Coppertop-AA-Alkaline-Batteries-16-Pack/20350074905?classType=REGULAR&athbdg=L1300&from=/search
+  image: https://i5.walmartimages.com/seo/Duracell-Coppertop-AA-Alkaline-Batteries-16-Pack_47167582-3423-4312-a881-5d2175c2dfdf.85d851a78768c44ff0bf96a8d8629c13.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF
+

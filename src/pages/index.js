@@ -14,7 +14,7 @@ import {
 import { Helmet } from 'react-helmet'
 import { GlobalQuarklyPageStyles } from 'global-page-styles'
 import { RawHtml, Override } from '@quarkly/components'
-import data from './data.json'
+import data from './data.yaml'
 
 let WishlistData = data
 
